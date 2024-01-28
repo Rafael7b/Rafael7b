@@ -1,4 +1,7 @@
-Sou Developer front end junior mais tenho sede de conhecimento 
+Sou Developer front end junior ainda estou começando mais tenho sede insaciável por conhecimento.
+Meu whatsapp:(21)982884805
+Sou de Duque de Caxias,RJ
+
 
 
 ![Rafael7b's Stats](https://github-readme-stats.vercel.app/api?username=Rafael7b&theme=dracula&show_icons=true&hide_border=false&count_private=true) ![Rafael7b's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rafael7b&theme=dracula&hide_border=false)
