@@ -1,4 +1,4 @@
-Sou Developer front end junior ainda estou começando mais tenho uma sede insaciável por conhecimento.
+Sou Developer front end junior, ainda estou começando mais tenho uma sede insaciável por conhecimento.
 Meu whatsapp:(21)982884805
 Duque de Caxias,RJ
 
