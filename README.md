@@ -2,15 +2,7 @@ Sou Developer front end junior, ainda estou começando mais tenho uma sede insac
 Meu whatsapp:(21)982884805
 Duque de Caxias,RJ
 
-
-
-![Rafael7b's Stats](https://github-readme-stats.vercel.app/api?username=Rafael7b&theme=dracula&show_icons=true&hide_border=false&count_private=true) ![Rafael7b's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rafael7b&theme=dracula&hide_border=false)
-
-
-
-
-
-
+![Rafael7b's Stats](https://github-readme-stats.vercel.app/api?username=Rafael7b&theme=dracula&show_icons=true&hide_border=true&count_private=true)![Rafael7b's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rafael7b&theme=dracula&hide_border=true)![Rafael7b's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rafael7b&theme=dracula&show_icons=true&hide_border=true&layout=compact)
 
 
   <div style="display: inline_block"><br>
